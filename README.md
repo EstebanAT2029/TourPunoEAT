@@ -9,8 +9,8 @@ Este proyecto proporciona una interfaz interactiva para visualizar lugares turí
 ## 🚀 Características  
 - Listado de destinos turísticos con imágenes y descripciones  
 - Interfaz amigable y responsive  
-- Integración con mapas para ubicación de sitios  
-- Autenticación de usuarios (opcional)  
+- Integración con mapas
+- Formulario de Registro
 
 ## 🛠️ Tecnologías utilizadas  
 - **React** 
