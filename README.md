@@ -1,4 +1,4 @@
-# 🌍 encuentra los Lugares Turísticos en Puno
+# 🌍 Encuentra los Lugares Turísticos en Puno
 
 **Autor:** Esteban Apaza Ticona
 📍 Proyecto de exploración y visualización de destinos turísticos  
