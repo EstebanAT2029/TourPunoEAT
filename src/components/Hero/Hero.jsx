@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="container grid grid-cols-1 gap-4">
           <div className="text-white">
             <p data-aos="fade-up" className="text-sm">
-              Paquetes Turisticos
+              Paquetes Turisticos en Puno
             </p>
             <p
               data-aos="fade-up"

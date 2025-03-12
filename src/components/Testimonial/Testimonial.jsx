@@ -11,7 +11,7 @@ const testimonialData = [
   {
     id: 1,
     name: "Ana Maria",
-    text: "un lugar bastante acogedor, buena atencion y ubicado en un lugar centrico",
+    text: "un lugar bastante acogedor, buena atencion y ubicado en un lugar centrico de la Ciudad",
     img: "https://placehold.co/103x103",
   },
   {

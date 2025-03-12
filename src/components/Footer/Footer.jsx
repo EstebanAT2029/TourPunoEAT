@@ -140,7 +140,7 @@ const Footer = () => {
           </div>
           <div>
             <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
-              @copyright 2025 All rights reserved || Esteban Apaza Ticona
+              @CopyRight 2025 Todos los Derechos Reservados|| Esteban Apaza Ticona
             </div>
           </div>
         </div>

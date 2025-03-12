@@ -13,10 +13,13 @@ Este proyecto proporciona una interfaz interactiva para visualizar lugares turí
 - Formulario de Registro
 
 ## 🛠️ Tecnologías utilizadas  
+- **Html**
+- **JavaScript**
 - **React** 
 - **Tailwind**
 - **CSS** 
-- **Next.js**
+- **Node.js**
+
 ## 📸 Capturas de pantalla  
 ![Vista previa](![alt text](image.png) 
 
