@@ -1,6 +1,6 @@
-# 🌍 Vista de Lugares Turísticos
+# 🌍 encuentra los Lugares Turísticos en Puno
 
-**Autor:** Esteban Apaza  
+**Autor:** Esteban Apaza Ticona
 📍 Proyecto de exploración y visualización de destinos turísticos  
 
 ## 📖 Descripción  
@@ -18,7 +18,7 @@ Este proyecto proporciona una interfaz interactiva para visualizar lugares turí
 - **CSS** 
 - **Next.js**
 ## 📸 Capturas de pantalla  
-![Vista previa](![alt text](image.png))  
+![Vista previa](![alt text](image.png) 
 
 ## 🔧 Instalación y Uso  
 1. Clona el repositorio:  
