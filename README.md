@@ -14,10 +14,11 @@ Este proyecto proporciona una interfaz interactiva para visualizar lugares turí
 
 ## 🛠️ Tecnologías utilizadas  
 - **React** 
-- **Tailwind CSS** 
-
+- **Tailwind**
+- **CSS** 
+- **Next.js**
 ## 📸 Capturas de pantalla  
-![Vista previa](ruta-de-la-imagen.png)  
+![Vista previa](![alt text](image.png))  
 
 ## 🔧 Instalación y Uso  
 1. Clona el repositorio:  
